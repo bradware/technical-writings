@@ -9,6 +9,6 @@ presented to management or my professor.
 * **Engagement Studio** - a web application used for nurture marketing. The document outlines the technical specifications of the app including the purpose, technologies used, and architecture diagrams.
 * **Knowledge Based Systems** - technical reports for each phase of the project. These reports served as an analysis for my code which can be found [here](https://github.com/bradware/ravens-progressive-matrices-test). The goal of the project was to teach an artifical agent to solve the Raven's Progressive Matrices problem given only images as input. 
 * **DataImporterPipeline** - technical documentation on a fault tolerant distributed data importer pipeline. Leveraged AWS's S3 and Redshift. Documentation includes schema design for database, class design, and test cases.
-* **HackathonListingsDesign** - screenshots of the new design for every listings page on redfin.com. Idea was implemented at the company hackathon. 
+* **HackathonListingsDesign** - screenshots of the new UX for every home's listing page on [Redfin](https://www.redfin.com). Idea was implemented at the company hackathon. 
 
 
